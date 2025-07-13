@@ -1,0 +1,152 @@
+body{
+    margin-left:50px;
+    margin-right: 50px;
+    
+}
+.open-sans-font {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.primary-btn{
+    background-color: #4E47FF;
+    color: #ffff;
+    padding: 12px 36px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.banner-section {
+
+    text-align: center;
+    background-image: url(../Assets/Hero-bg.png);
+    height: 400px;}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 0 30px;
+
+}
+.logo{
+       color: #4E47FF;
+         font-weight: bold;
+}
+
+.banner-hedder{
+    font-weight: 900;
+    font-size: 60px;
+    text-align: center;
+    
+}
+
+.one{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.heads{
+    font-size: 50px;
+}
+.hed-p{
+    font-weight: 100;
+}
+
+.img-one img{
+    border-radius: 40px;
+}
+.two{
+    padding-top: 30px;
+    background-color: #4c46ea46;
+    margin-left:60px;
+    margin-right: 10px;
+    width: 1200px;
+    border-radius: 10px;
+}
+
+.two-hed{
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+}
+.user{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+.comon h1{
+    font-size: 80px;
+           color: #4E47FF;
+           padding-bottom: 0px;
+           margin-bottom: 0px;
+           border-bottom: 0px;
+}
+.three{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 100px;
+
+    
+}
+
+.touch-head{
+    font-weight: 900;
+    font-size: 100px;
+}
+
+
+
+
+
+
+
+
+.footer-section {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #e0e5ea; 
+    color: #555;
+}
+
+.footer-logo {
+    font-size: 70px;
+    font-weight: bold;
+    color: #6a5acd; 
+    margin-bottom: 20px;
+}
+
+.footer-nav {
+    margin: 0px;
+    padding:0px 500px;
+}
+.footer-nav a {
+    color: #8987A1;
+    text-decoration: none;
+    padding: 0px;
+}
+
+.int{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.btn{
+        padding-left: 170px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #4E47FF;
+    color: #ffff;
+}
+.txt{
+      padding-left: 150px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
